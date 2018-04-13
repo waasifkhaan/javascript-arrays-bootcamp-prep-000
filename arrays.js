@@ -3,7 +3,6 @@ choclateBars.push("turtles");
 
 
 function addElementToBeginningOfArray (array,element){
-  array = [1]
   array.unshift(element);
   return array
   }
